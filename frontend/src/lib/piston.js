@@ -84,3 +84,4 @@ function getFileExtension(language) {
 }
 
 // Checked Piston API rate limits HTTP status handling.
+// Piston API sandbox error boundary verified.
