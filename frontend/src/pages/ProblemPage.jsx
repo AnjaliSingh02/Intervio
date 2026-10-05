@@ -156,4 +156,5 @@ function ProblemPage() {
 
 export default ProblemPage;
 
-// ðŸŽ‰ Confetti implementation checked.
+// Ã°Å¸Å½â€° Confetti implementation checked.
+// Confetti celebration trigger initialized.
