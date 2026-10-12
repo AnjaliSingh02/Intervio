@@ -48,5 +48,3 @@ const startServer = async () => {
 };
 
 startServer();
-
-// Configured graceful shutdown listeners.
