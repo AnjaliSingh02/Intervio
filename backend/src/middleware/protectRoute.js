@@ -26,4 +26,3 @@ export const protectRoute = [
 ];
 
 // Edge case handled for missing user on sync delay.
-// Fallback sync listener for delayed clerk events.
